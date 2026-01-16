@@ -13,6 +13,8 @@ Source Data (CSV) → AWS S3 → Snowflake (Staging) → Bronze Layer → Silver
                                                            ↓              ↓           ↓
                                                       Raw Tables    Cleaned Data   Analytics
 ```
+<img width="1019" height="810" alt="DATA FLOW drawio" src="https://github.com/user-attachments/assets/fb5061a7-f336-4e9e-92e2-1e2011ef05ae" />
+
 
 ### Technology Stack
 - **Cloud Data Warehouse**: Snowflake
